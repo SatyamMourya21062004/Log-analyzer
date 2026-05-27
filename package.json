@@ -1,0 +1,13 @@
+{
+  "name": "log-analyzer",
+  "version": "1.0.0",
+  "description": "dev weekend Assessment",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node scripts/generateLogs.js"
+  }
+}
